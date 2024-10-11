@@ -1,5 +1,3 @@
-import React from 'react';
-
 const TransparentWithBorder = () => (
 	<section className="flex flex-wrap items-center gap-5 font-medium">
 		<button
